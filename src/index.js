@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const filename = 'text.txt';
-const hostname = 'https://nodejsproject-smg5.onrender.com';
+const hostname = '99.255.96.114';
 const port = 3000;
 
 const server = http.createServer((req, res) => {
